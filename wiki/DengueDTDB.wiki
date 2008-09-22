@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+*DengueDT-DB is an effort to collect information about the dengue virus, dengue virus genes, dengue virus drugs targets and drugs, disease into a central portal to facilitate dengue researchers from several disciplines such as drug discovery, vaccine development, epidemiology and comparative genomics.*
+
+*Dengue*
+Dengue fever is a disease caused by the Single-stranded RNA flavivirus. It is spread by Aedes Mosquitoes and is endemic to the tropical regions. The virus circulates as four immunologically distinct serotypes. Despite this diversity dengue fever is normally characterized by similar symptoms: fever, joint pain and vascular leakage.
+
+It is currently classified as an emerging or re-emerging infectious disease by the WHO. Dengue fever (DF) and dengue haemorrhagic fever (DHF)/dengue shock syndrome (DSS) occur in over 100 countries, with more than 2.5 billion people at risk and an estimated 50 million infection per year.
+
+
+*Dengue Drug Targets Database...*
+DengueDT-DB is an effort to collect information about the dengue virus, dengue virus genes, dengue virus drugs targets and drugs, disease into a central portal to facilitate dengue researchers from several disciplines such as drug discovery, vaccine development, epidemiology and comparative genomics.
+
+The database currently holds 13 dengue drugs Targets, 80 dengue virus genes, 2 drugs information and genome sequences Collected from Genbank and Drug targets from DrugBank, Similar targets from the Blast search query and the other virus information.
+
+The database also serves as link to Global Sequence Information eg. NCBI, DDBJ, EMBL, PDB, Expasy, Medical Litrature like PubMed, etc.
