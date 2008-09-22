@@ -1,7 +1,7 @@
-#summary One-sentence summary of this page.
 #labels Featured
+_*DengueDT-DB is an effort to collect information about the dengue virus, dengue virus genes, dengue virus drugs targets and drugs, disease into a central portal to facilitate dengue researchers from several disciplines such as drug discovery, vaccine development, epidemiology and comparative genomics.*_
 
-*DengueDT-DB is an effort to collect information about the dengue virus, dengue virus genes, dengue virus drugs targets and drugs, disease into a central portal to facilitate dengue researchers from several disciplines such as drug discovery, vaccine development, epidemiology and comparative genomics.*
+---
 
 *Dengue*
 Dengue fever is a disease caused by the Single-stranded RNA flavivirus. It is spread by Aedes Mosquitoes and is endemic to the tropical regions. The virus circulates as four immunologically distinct serotypes. Despite this diversity dengue fever is normally characterized by similar symptoms: fever, joint pain and vascular leakage.
